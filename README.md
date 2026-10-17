@@ -10,3 +10,4 @@ brew install <formula>  # eg. brew install tfstylus
 | Formula | Description |
 |---------|-------------|
 | [tfstylus](https://github.com/officel/tfstylus) | Terraform Stylus CLI tool. |
+| [uchi](https://github.com/officel/uchi) | Dotfiles Literate Configuration CLI tool. |
